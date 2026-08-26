@@ -71,12 +71,12 @@ Imprime `YES` si los chicos pueden dividir la sandía en dos partes, cada una co
 
 ## Ejemplos
 
-InputCopy
+Input
 ```bash
 8
 ```
 
-OutputCopy
+Output
 ```bash
 YES
 ```

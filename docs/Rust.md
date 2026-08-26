@@ -3,6 +3,8 @@
 
 [[Rust - Competitive programming 1 - Watermelon]].
 
+[[competitive-enunciado-rs]].
+
 [[Ejercicios Java - Rust]].
 [Herramientas relacionadas con Rust y la web](https://www.youtube.com/watch?v=4d4Uqyfzja4&ab_channel=Fazt).
 [Cheatsheet de Rust](https://quickref.me/rust.html).
