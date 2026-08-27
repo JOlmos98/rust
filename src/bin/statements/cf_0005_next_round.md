@@ -1,6 +1,6 @@
 ## Índice
 
-- [Enunciado (original)](#enunciado-original)
+- [Statement](#statement)
   - [A. Next Round](#a-next-round)
   - [Input](#input)
   - [Output](#output)
@@ -14,7 +14,7 @@
 
 ---
 
-# Enunciado (original)
+# Statement
 
 ## A. Next Round
 

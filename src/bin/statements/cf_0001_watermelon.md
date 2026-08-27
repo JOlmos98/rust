@@ -1,6 +1,6 @@
 ## Índice
 
-- [Enunciado (original)](#enunciado-original)
+- [Statement](#statement)
   - [A. Watermelon](#a-watermelon)
   - [Input](#input)
   - [Output](#output)
@@ -14,7 +14,7 @@
 
 ---
 
-# Enunciado (original)
+# Statement
 
 ## A. Watermelon
 

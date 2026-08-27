@@ -1,6 +1,6 @@
 ## Índice
 
-- [Enunciado (original)](#enunciado-original)
+- [Statement](#statement)
   - [A. Way Too Long Words](#a-way-too-long-words)
   - [Input](#input)
   - [Output](#output)
@@ -14,7 +14,7 @@
 
 ---
 
-# Enunciado (original)
+# Statement
 
 ## A. Way Too Long Words
 
