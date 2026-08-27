@@ -1,8 +1,8 @@
 use std::io;
-const LOGS_ORIENTATIVOS: bool = false;
+const EXTRA_LOGS: bool = false;
 
 fn main() {
-    if LOGS_ORIENTATIVOS {println!("Introduce un número entero (será el número de palabras que introducirás después):");}
+    if EXTRA_LOGS {println!("Introduce un número entero (será el número de palabras que introducirás después):");}
 
     // while hasta que tengamos el entero correcto
 
@@ -22,7 +22,7 @@ fn main() {
             // si no (else), volvemos a imprimir que meta un entero y reofrecemos input en bucle (while)
             Err(_) => {
                 input.clear();
-                if LOGS_ORIENTATIVOS {println!("Introduce un número entero válido.");}
+                if EXTRA_LOGS {println!("Introduce un número entero válido.");}
             }
         }
     };
@@ -33,7 +33,7 @@ fn main() {
     let mut words: Vec<String> = Vec::new();
 
     while words_counter < words_number {
-        if LOGS_ORIENTATIVOS {println!("Introduce una palabra:");}
+        if EXTRA_LOGS {println!("Introduce una palabra:");}
 
         io::stdin().read_line(&mut input).expect(""); //Error al leer el input, introduce una palabra sin números.
 
