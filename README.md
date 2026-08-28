@@ -1,4 +1,4 @@
-# RUST NOTES
+# RUST
 
 ## Indice
 
